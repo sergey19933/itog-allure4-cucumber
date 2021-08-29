@@ -1,0 +1,8 @@
+target
+.idea
+.allure
+
+*.iml
+*.war
+*.jar
+*.log
